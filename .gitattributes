@@ -1,5 +1,6 @@
 export_converter/* linguist-vendored
 export_puck/* linguist-vendored
+src_puck/utils/build* linguist-documentation
 *.dch linguist-vendored
 *.dip linguist-vendored
 *.dipb? linguist-vendored
