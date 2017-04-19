@@ -1,0 +1,5 @@
+export_converter/* linguist-vendored
+export_puck/* linguist-vendored
+*.dch linguist-vendored
+*.dip linguist-vendored
+*.dipb? linguist-vendored
