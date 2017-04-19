@@ -1,0 +1,1165 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                              build/gravare_puck.o (__divmodsi4)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o (exit)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                              build/gravare_puck.o (__tablejump2__)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                              build/modbus.o (__do_copy_data)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                              build/gravare_puck.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+                              build/gravare_puck.o (__addsf3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                              build/gravare_puck.o (atan2)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o) (atan)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o) (__divsf3_pse)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              build/gravare_puck.o (__fixsfsi)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              build/gravare_puck.o (__floatunsisf)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o) (__fp_powser)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o) (inverse)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              build/gravare_puck.o (__mulsf3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o) (__mulsf3x)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o) (square)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o) (__divsf3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_byte_atmega168p.o)
+                              build/gravare_puck.o (__eerd_byte_m168p)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+                              build/gravare_puck.o (__eerd_word_m168p)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+                              build/gravare_puck.o (__eewr_byte_m168p)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+                              build/gravare_puck.o (__eewr_word_m168p)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o) (__eerd_blraw_m168p)
+
+Allocating common symbols
+Common symbol       size              file
+
+gyro_conf           0x2               build/gravare_puck.o
+rx_buffer           0x100             build/gravare_puck.o
+accl_conf           0x2               build/gravare_puck.o
+buffer              0x21              build/gravare_puck.o
+modbus_id           0x1               build/gravare_puck.o
+angl_conf           0x2               build/gravare_puck.o
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+ .text          0x0000000000000000        0x0 build/crc16.o
+ .bss           0x0000000000000000        0x0 build/crc16.o
+ .text          0x0000000000000000        0x0 build/mpu6050.o
+ .bss           0x0000000000000000        0x0 build/mpu6050.o
+ .text.mpu6050_temp
+                0x0000000000000000       0x26 build/mpu6050.o
+ .text.mpu6050_burst
+                0x0000000000000000       0x6c build/mpu6050.o
+ .text          0x0000000000000000        0x0 build/twi.o
+ .bss           0x0000000000000000        0x0 build/twi.o
+ .text.twi_stop
+                0x0000000000000000        0x8 build/twi.o
+ .text.twi_read_ack
+                0x0000000000000000       0x14 build/twi.o
+ .text.twi_read_burst
+                0x0000000000000000       0x7e build/twi.o
+ .text          0x0000000000000000        0x0 build/gravare_puck.o
+ .bss           0x0000000000000000        0x0 build/gravare_puck.o
+ .text.uart_put
+                0x0000000000000000        0x4 build/gravare_puck.o
+ .text.uart_puts
+                0x0000000000000000       0x18 build/gravare_puck.o
+ .text.blink_error
+                0x0000000000000000       0x2a build/gravare_puck.o
+ .text.modbus_set_coil
+                0x0000000000000000        0x2 build/gravare_puck.o
+ .bss.angle_last
+                0x0000000000000000        0xc build/gravare_puck.o
+ .bss.modbus_len
+                0x0000000000000000        0x1 build/gravare_puck.o
+ .bss.rx_flag   0x0000000000000000        0x1 build/gravare_puck.o
+ .text          0x0000000000000000        0x0 build/modbus.o
+ .bss           0x0000000000000000        0x0 build/modbus.o
+ .text.modbus_wait
+                0x0000000000000000        0xe build/modbus.o
+ .text.modbus_putarray
+                0x0000000000000000       0x36 build/modbus.o
+ .text.modbus_reset
+                0x0000000000000000        0xe build/modbus.o
+ .text.modbus_get_function
+                0x0000000000000000        0x6 build/modbus.o
+ .text.modbus_get_data
+                0x0000000000000000        0x4 build/modbus.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_byte_atmega168p.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_byte_atmega168p.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+LOAD build/crc16.o
+LOAD build/mpu6050.o
+LOAD build/twi.o
+LOAD build/gravare_puck.o
+LOAD build/modbus.o
+LOAD /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x13ca
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.modbus_get_register
+                0x0000000000000068       0x18 build/gravare_puck.o
+ .progmem.gcc_fplib
+                0x0000000000000080       0x2d /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+                0x00000000000000ae                . = ALIGN (0x2)
+ *fill*         0x00000000000000ad        0x1 
+                0x00000000000000ae                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000ae        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000ae                __trampolines_end = .
+ *(.progmem*)
+                0x00000000000000ae                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000ae                __ctors_start = .
+ *(.ctors)
+                0x00000000000000ae                __ctors_end = .
+                0x00000000000000ae                __dtors_start = .
+ *(.dtors)
+                0x00000000000000ae                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000ae        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+                0x00000000000000ae                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000ae        0xc /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000ba       0x16 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000ba                __do_copy_data
+ .init4         0x00000000000000d0       0x10 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000d0                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000e0        0x8 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000e8        0x4 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+                0x00000000000000e8                __vector_22
+                0x00000000000000e8                __vector_1
+                0x00000000000000e8                __vector_24
+                0x00000000000000e8                __vector_12
+                0x00000000000000e8                __bad_interrupt
+                0x00000000000000e8                __vector_6
+                0x00000000000000e8                __vector_3
+                0x00000000000000e8                __vector_23
+                0x00000000000000e8                __vector_25
+                0x00000000000000e8                __vector_11
+                0x00000000000000e8                __vector_17
+                0x00000000000000e8                __vector_19
+                0x00000000000000e8                __vector_7
+                0x00000000000000e8                __vector_5
+                0x00000000000000e8                __vector_4
+                0x00000000000000e8                __vector_9
+                0x00000000000000e8                __vector_2
+                0x00000000000000e8                __vector_21
+                0x00000000000000e8                __vector_15
+                0x00000000000000e8                __vector_8
+                0x00000000000000e8                __vector_10
+                0x00000000000000e8                __vector_16
+                0x00000000000000ec                . = ALIGN (0x2)
+ *(.text.*)
+ .text.mpu6050_init
+                0x00000000000000ec       0x48 build/mpu6050.o
+                0x00000000000000ec                mpu6050_init
+ .text.mpu6050_accel_x
+                0x0000000000000134       0x26 build/mpu6050.o
+                0x0000000000000134                mpu6050_accel_x
+ .text.mpu6050_accel_y
+                0x000000000000015a       0x26 build/mpu6050.o
+                0x000000000000015a                mpu6050_accel_y
+ .text.mpu6050_accel_z
+                0x0000000000000180       0x26 build/mpu6050.o
+                0x0000000000000180                mpu6050_accel_z
+ .text.mpu6050_gyro_x
+                0x00000000000001a6       0x26 build/mpu6050.o
+                0x00000000000001a6                mpu6050_gyro_x
+ .text.mpu6050_gyro_y
+                0x00000000000001cc       0x26 build/mpu6050.o
+                0x00000000000001cc                mpu6050_gyro_y
+ .text.mpu6050_gyro_z
+                0x00000000000001f2       0x26 build/mpu6050.o
+                0x00000000000001f2                mpu6050_gyro_z
+ .text.twi_init
+                0x0000000000000218        0xc build/twi.o
+                0x0000000000000218                twi_init
+ .text.twi_start
+                0x0000000000000224       0x16 build/twi.o
+                0x0000000000000224                twi_start
+ .text.twi_send_addr
+                0x000000000000023a       0x1a build/twi.o
+                0x000000000000023a                twi_send_addr
+ .text.twi_send_data
+                0x0000000000000254       0x1a build/twi.o
+                0x0000000000000254                twi_send_data
+ .text.twi_read_nack
+                0x000000000000026e       0x14 build/twi.o
+                0x000000000000026e                twi_read_nack
+ .text.twi_write_register
+                0x0000000000000282       0x3e build/twi.o
+                0x0000000000000282                twi_write_register
+ .text.twi_read_register
+                0x00000000000002c0       0x42 build/twi.o
+                0x00000000000002c0                twi_read_register
+ .text.uart_init
+                0x0000000000000302       0x26 build/gravare_puck.o
+                0x0000000000000302                uart_init
+ .text.uart_transmit
+                0x0000000000000328       0x10 build/gravare_puck.o
+                0x0000000000000328                uart_transmit
+ .text.modbus_tx
+                0x0000000000000338        0x4 build/gravare_puck.o
+                0x0000000000000338                modbus_tx
+ .text.__vector_18
+                0x000000000000033c       0x44 build/gravare_puck.o
+                0x000000000000033c                __vector_18
+ .text.__vector_20
+                0x0000000000000380       0x16 build/gravare_puck.o
+                0x0000000000000380                __vector_20
+ .text.__vector_14
+                0x0000000000000396       0x82 build/gravare_puck.o
+                0x0000000000000396                __vector_14
+ .text.setup    0x0000000000000418       0x7e build/gravare_puck.o
+                0x0000000000000418                setup
+ .text.modbus_get_register
+                0x0000000000000496       0xae build/gravare_puck.o
+                0x0000000000000496                modbus_get_register
+ .text.modbus_set_register
+                0x0000000000000544       0x7e build/gravare_puck.o
+                0x0000000000000544                modbus_set_register
+ .text.modbus_get_coil
+                0x00000000000005c2       0x24 build/gravare_puck.o
+                0x00000000000005c2                modbus_get_coil
+ .text.modbus_on_broadcast
+                0x00000000000005e6        0x2 build/gravare_puck.o
+                0x00000000000005e6                modbus_on_broadcast
+ .text.__vector_13
+                0x00000000000005e8       0x22 build/gravare_puck.o
+                0x00000000000005e8                __vector_13
+ .text.startup.main
+                0x000000000000060a      0x3d2 build/gravare_puck.o
+                0x000000000000060a                main
+ .text.modbus_crc
+                0x00000000000009dc       0x28 build/modbus.o
+                0x00000000000009dc                modbus_crc
+ .text.modbus_put
+                0x0000000000000a04       0x20 build/modbus.o
+                0x0000000000000a04                modbus_put
+ .text.modbus_putregister
+                0x0000000000000a24       0x12 build/modbus.o
+                0x0000000000000a24                modbus_putregister
+ .text.modbus_putcrc
+                0x0000000000000a36       0x1e build/modbus.o
+                0x0000000000000a36                modbus_putcrc
+ .text.modbus_start
+                0x0000000000000a54       0x36 build/modbus.o
+                0x0000000000000a54                modbus_start
+ .text.modbus_stop
+                0x0000000000000a8a       0x1a build/modbus.o
+                0x0000000000000a8a                modbus_stop
+ .text.modbus_throw
+                0x0000000000000aa4       0x24 build/modbus.o
+                0x0000000000000aa4                modbus_throw
+ .text.modbus_is_frame_valid
+                0x0000000000000ac8       0x86 build/modbus.o
+                0x0000000000000ac8                modbus_is_frame_valid
+ .text.modbus_get_id
+                0x0000000000000b4e        0x6 build/modbus.o
+                0x0000000000000b4e                modbus_get_id
+ .text.modbus_uint16
+                0x0000000000000b54       0x14 build/modbus.o
+                0x0000000000000b54                modbus_uint16
+ .text.modbus_execute
+                0x0000000000000b68      0x26e build/modbus.o
+                0x0000000000000b68                modbus_execute
+ .text.libgcc.div
+                0x0000000000000dd6       0x2e /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                0x0000000000000dd6                __divmodsi4
+ .text.libgcc.div
+                0x0000000000000e04       0x10 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                0x0000000000000e04                __negsi2
+ .text.libgcc   0x0000000000000e14        0xc /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                0x0000000000000e14                __tablejump2__
+                0x0000000000000e18                __tablejump__
+ .text.libgcc.div
+                0x0000000000000e20       0x44 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000000e20                __udivmodsi4
+ .text.avr-libc.fplib
+                0x0000000000000e64        0xa /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+                0x0000000000000e64                __subsf3
+                0x0000000000000e66                __addsf3
+ .text.avr-libc.fplib
+                0x0000000000000e6e       0xc0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                0x0000000000000e88                __addsf3x
+ .text.avr-libc.fplib
+                0x0000000000000f2e       0x74 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                0x0000000000000f4c                atan2
+ .text.avr-libc.fplib
+                0x0000000000000fa2       0x50 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+                0x0000000000000fa2                atan
+ .text.avr-libc.fplib
+                0x0000000000000ff2       0xcc /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                0x0000000000001008                __divsf3x
+                0x000000000000100c                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000000000010be        0xa /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                0x00000000000010be                __fixsfsi
+ .text.avr-libc.fplib
+                0x00000000000010c8       0x58 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                0x00000000000010c8                __fixunssfsi
+ .text.avr-libc.fplib
+                0x0000000000001120       0x7a /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                0x0000000000001120                __floatunsisf
+                0x0000000000001124                __floatsisf
+ .text.avr-libc.fplib
+                0x000000000000119a        0xc /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                0x000000000000119a                __fp_inf
+ .text.avr-libc.fplib
+                0x00000000000011a6        0x6 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                0x00000000000011a6                __fp_nan
+ .text.avr-libc.fplib
+                0x00000000000011ac       0x4a /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+                0x00000000000011ac                __fp_powser
+ .text.avr-libc.fplib
+                0x00000000000011f6        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                0x00000000000011f6                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000001204        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                0x0000000000001204                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000001212       0x22 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+                0x0000000000001212                __fp_round
+ .text.avr-libc.fplib
+                0x0000000000001234       0x44 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                0x0000000000001234                __fp_split3
+                0x0000000000001244                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000001278        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                0x0000000000001278                __fp_zero
+                0x000000000000127a                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000001286        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+                0x0000000000001286                inverse
+ .text.avr-libc.fplib
+                0x0000000000001294        0x4 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                0x0000000000001294                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000001298       0xc2 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                0x00000000000012ac                __mulsf3x
+                0x00000000000012b0                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x000000000000135a        0x6 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+                0x000000000000135a                square
+ .text.avr-libc.fplib
+                0x0000000000001360        0x4 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+                0x0000000000001360                __divsf3
+ .text.avr-libc
+                0x0000000000001364       0x10 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_byte_atmega168p.o)
+                0x0000000000001364                __eerd_byte_m168p
+ .text.avr-libc
+                0x0000000000001374        0xc /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+                0x0000000000001374                __eerd_word_m168p
+ .text.avr-libc
+                0x0000000000001380       0x1c /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+                0x0000000000001380                __eewr_byte_m168p
+                0x0000000000001382                __eewr_r18_m168p
+ .text.avr-libc
+                0x000000000000139c        0xa /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+                0x000000000000139c                __eewr_word_m168p
+ .text.avr-libc
+                0x00000000000013a6       0x20 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+                0x00000000000013a6                __eerd_block_m168p
+                0x00000000000013aa                __eerd_blraw_m168p
+                0x00000000000013c6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000013c6        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                0x00000000000013c6                exit
+                0x00000000000013c6                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000013c6        0x4 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000013ca                _etext = .
+
+.data           0x0000000000800100        0x2 load address 0x00000000000013ca
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+ .data          0x0000000000800100        0x0 build/crc16.o
+ .data          0x0000000000800100        0x0 build/mpu6050.o
+ .data          0x0000000000800100        0x0 build/twi.o
+ .data          0x0000000000800100        0x0 build/gravare_puck.o
+ .data          0x0000000000800100        0x0 build/modbus.o
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_byte_atmega168p.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+ *(.data*)
+ .data.tx_crc   0x0000000000800100        0x2 build/modbus.o
+                0x0000000000800100                tx_crc
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0000000000800102                . = ALIGN (0x2)
+                0x0000000000800102                _edata = .
+                0x0000000000800102                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800102      0x148
+                0x0000000000800102                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.n_ovf     0x0000000000800102        0x1 build/gravare_puck.o
+                0x0000000000800102                n_ovf
+ .bss.angle_xyz
+                0x0000000000800103        0xc build/gravare_puck.o
+                0x0000000000800103                angle_xyz
+ .bss.raw_accel
+                0x000000000080010f        0x6 build/gravare_puck.o
+                0x000000000080010f                raw_accel
+ .bss.raw_gyro  0x0000000000800115        0x6 build/gravare_puck.o
+                0x0000000000800115                raw_gyro
+ .bss.gyro_ofs  0x000000000080011b        0x6 build/gravare_puck.o
+                0x000000000080011b                gyro_ofs
+ .bss.tx_index  0x0000000000800121        0x1 build/gravare_puck.o
+                0x0000000000800121                tx_index
+ *(COMMON)
+ COMMON         0x0000000000800122      0x128 build/gravare_puck.o
+                0x0000000000800122                gyro_conf
+                0x0000000000800124                rx_buffer
+                0x0000000000800224                accl_conf
+                0x0000000000800226                buffer
+                0x0000000000800247                modbus_id
+                0x0000000000800248                angl_conf
+                0x000000000080024a                PROVIDE (__bss_end, .)
+                0x00000000000013ca                __data_load_start = LOADADDR (.data)
+                0x00000000000013cc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x000000000080024a        0x0
+                0x000000000080024a                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x000000000080024a                PROVIDE (__noinit_end, .)
+                0x000000000080024a                _end = .
+                0x000000000080024a                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x7
+ *(.eeprom*)
+ .eeprom        0x0000000000810000        0x7 build/gravare_puck.o
+                0x0000000000810000                eeprom_angl_conf
+                0x0000000000810002                eeprom_accl_conf
+                0x0000000000810004                eeprom_gyro_conf
+                0x0000000000810006                eeprom_modbus_id
+                0x0000000000810007                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 build/crc16.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 build/mpu6050.o
+ .comment       0x0000000000000000       0x12 build/twi.o
+ .comment       0x0000000000000000       0x12 build/gravare_puck.o
+ .comment       0x0000000000000000       0x12 build/modbus.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(build/gravare_puck.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+__addsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  build/gravare_puck.o
+__addsf3x                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__bss_end                                         /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__data_end                                        /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__divmodsi4                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                                                  build/gravare_puck.o
+__divsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+__divsf3_pse                                      /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+__divsf3x                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                                                  build/gravare_puck.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                                                  build/modbus.o
+__eerd_block_m168p                                /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+__eerd_blraw_m168p                                /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_block_atmega168p.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+__eerd_byte_m168p                                 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_byte_atmega168p.o)
+                                                  build/gravare_puck.o
+__eerd_word_m168p                                 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eerd_word_atmega168p.o)
+                                                  build/gravare_puck.o
+__eewr_byte_m168p                                 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+                                                  build/gravare_puck.o
+__eewr_r18_m168p                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_byte_atmega168p.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+__eewr_word_m168p                                 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(eewr_word_atmega168p.o)
+                                                  build/gravare_puck.o
+__fixsfsi                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  build/gravare_puck.o
+__fixunssfsi                                      /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  build/gravare_puck.o
+__floatunsisf                                     /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  build/gravare_puck.o
+__fp_inf                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_powser                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+__fp_pscA                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__heap_end                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__init                                            /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__mulsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+                                                  build/gravare_puck.o
+__mulsf3_pse                                      /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_powser.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+__negsi2                                          /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+__stack                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__subsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+__tablejump2__                                    /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                                                  build/gravare_puck.o
+__tablejump__                                     /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+__vector_1                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_10                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_11                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_12                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_13                                       build/gravare_puck.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_14                                       build/gravare_puck.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_15                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_16                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_17                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_18                                       build/gravare_puck.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_19                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_2                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_20                                       build/gravare_puck.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_21                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_22                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_23                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_24                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_25                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_3                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_4                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_5                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_6                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_7                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_8                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_9                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vector_default                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+__vectors                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+_exit                                             /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+accl_conf                                         build/gravare_puck.o
+angl_conf                                         build/gravare_puck.o
+angle_last                                        build/gravare_puck.o
+angle_xyz                                         build/gravare_puck.o
+atan                                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+atan2                                             /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan2.o)
+                                                  build/gravare_puck.o
+blink_error                                       build/gravare_puck.o
+buffer                                            build/gravare_puck.o
+eeprom_accl_conf                                  build/gravare_puck.o
+eeprom_angl_conf                                  build/gravare_puck.o
+eeprom_gyro_conf                                  build/gravare_puck.o
+eeprom_modbus_id                                  build/gravare_puck.o
+exit                                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+gyro_conf                                         build/gravare_puck.o
+gyro_ofs                                          build/gravare_puck.o
+inverse                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(inverse.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+main                                              build/gravare_puck.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm168p.o
+modbus_crc                                        build/modbus.o
+modbus_execute                                    build/modbus.o
+                                                  build/gravare_puck.o
+modbus_get_coil                                   build/gravare_puck.o
+                                                  build/modbus.o
+modbus_get_data                                   build/modbus.o
+modbus_get_function                               build/modbus.o
+modbus_get_id                                     build/modbus.o
+                                                  build/gravare_puck.o
+modbus_get_register                               build/gravare_puck.o
+                                                  build/modbus.o
+modbus_id                                         build/gravare_puck.o
+modbus_is_frame_valid                             build/modbus.o
+                                                  build/gravare_puck.o
+modbus_len                                        build/gravare_puck.o
+modbus_on_broadcast                               build/gravare_puck.o
+                                                  build/modbus.o
+modbus_put                                        build/modbus.o
+modbus_putarray                                   build/modbus.o
+modbus_putcrc                                     build/modbus.o
+modbus_putregister                                build/modbus.o
+modbus_reset                                      build/modbus.o
+modbus_set_coil                                   build/gravare_puck.o
+modbus_set_register                               build/gravare_puck.o
+                                                  build/modbus.o
+modbus_start                                      build/modbus.o
+modbus_stop                                       build/modbus.o
+modbus_throw                                      build/modbus.o
+modbus_tx                                         build/gravare_puck.o
+                                                  build/modbus.o
+modbus_uint16                                     build/modbus.o
+modbus_wait                                       build/modbus.o
+mpu6050_accel_x                                   build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_accel_y                                   build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_accel_z                                   build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_burst                                     build/mpu6050.o
+mpu6050_gyro_x                                    build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_gyro_y                                    build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_gyro_z                                    build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_init                                      build/mpu6050.o
+                                                  build/gravare_puck.o
+mpu6050_temp                                      build/mpu6050.o
+n_ovf                                             build/gravare_puck.o
+raw_accel                                         build/gravare_puck.o
+raw_gyro                                          build/gravare_puck.o
+rx_buffer                                         build/gravare_puck.o
+rx_flag                                           build/gravare_puck.o
+setup                                             build/gravare_puck.o
+square                                            /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(square.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(atan.o)
+twi_init                                          build/twi.o
+                                                  build/gravare_puck.o
+twi_read_ack                                      build/twi.o
+twi_read_burst                                    build/twi.o
+                                                  build/mpu6050.o
+twi_read_nack                                     build/twi.o
+twi_read_register                                 build/twi.o
+                                                  build/mpu6050.o
+twi_send_addr                                     build/twi.o
+twi_send_data                                     build/twi.o
+twi_start                                         build/twi.o
+twi_stop                                          build/twi.o
+twi_write_register                                build/twi.o
+                                                  build/mpu6050.o
+tx_crc                                            build/modbus.o
+tx_index                                          build/gravare_puck.o
+uart_init                                         build/gravare_puck.o
+uart_put                                          build/gravare_puck.o
+uart_puts                                         build/gravare_puck.o
+uart_transmit                                     build/gravare_puck.o
